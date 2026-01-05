@@ -3,7 +3,7 @@
 ## SETUP AND EXECUTION  
 This project was developed and tested using Python 3.11.1.
 
-## INSTALLATION  
+## INSTALLATIONS  
 Install Docker if it is not already installed.
 
 Install Python dependencies:  
