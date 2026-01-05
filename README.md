@@ -1,11 +1,7 @@
 # Real Time Algorithmic Stock Trading System
 
-SETUP AND EXECUTION  
+## SETUP AND EXECUTION  
 This project was developed and tested using Python 3.11.1.
-
-## 📌 PREREQUISITES  
-+ 🐍 Python 3.11.1  
-+ 🐳 Docker and Docker Compose  
 
 ## INSTALLATION  
 Install Docker if it is not already installed.
