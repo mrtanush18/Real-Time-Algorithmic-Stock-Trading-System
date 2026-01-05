@@ -1,0 +1,8 @@
+pandas==2.1.0
+plotly==5.17.0
+kafka-python==2.0.2
+numpy==1.24.0
+streamlit
+nltk
+alpaca-trade-api
+alpaca-py
