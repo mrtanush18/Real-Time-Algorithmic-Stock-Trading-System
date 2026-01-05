@@ -7,7 +7,7 @@ This project was developed and tested using Python 3.11.1.
 + 🐍 Python 3.11.1  
 + 🐳 Docker and Docker Compose  
 
-# INSTALLATION  
+INSTALLATION  
 Install Docker if it is not already installed.
 
 Install Python dependencies:  
@@ -17,7 +17,7 @@ Install Python dependencies:
 Build and start all required services:  
 + `docker compose up -d --build`  
 
-# RUNNING THE APPLICATION  
+RUNNING THE APPLICATION  
 Start the Kafka producers in separate terminals:  
 + `python news-producer.py`  
 + `python prices-producer.py`  
