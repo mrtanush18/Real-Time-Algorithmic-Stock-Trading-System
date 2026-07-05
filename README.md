@@ -28,3 +28,6 @@ Copy and execute all commands from the `ddl.sql` file to create the required tab
 
 Launch the Streamlit dashboard:  
 + `streamlit run app.py`
+
+![Dashboard](https://github.com/user-attachments/assets/69c0aecf-8393-4123-a33c-48671cb5264e)
+
