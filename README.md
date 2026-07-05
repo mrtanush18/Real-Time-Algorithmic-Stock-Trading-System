@@ -1,5 +1,8 @@
 # Real Time Algorithmic Stock Trading System
 
+![Pipeline image](https://github.com/user-attachments/assets/80e03406-6ad2-4ed4-ac08-0c2433d5ec91)
+
+
 ## SETUP AND EXECUTION  
 This project was developed and tested using Python 3.11.1.
 
