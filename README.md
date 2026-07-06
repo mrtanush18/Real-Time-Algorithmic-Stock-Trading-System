@@ -26,6 +26,9 @@ Then go back to the same terminal, where you started Docker & start the Flink SQ
 
 Copy and execute all commands one by one from the `ddl.sql` file to create the required tables and views needed for visualization.
 
+Exit Flink SQL Client
++ `exit;`
+
 Launch the Streamlit dashboard:  
 + `streamlit run app.py`
 
