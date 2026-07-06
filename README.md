@@ -21,7 +21,7 @@ Start the Kafka producers in separate terminals:
 + `python news-producer.py`  
 + `python prices-producer.py`  
 
-Start the Flink SQL client:  
+Then go back to the same terminal, where you started Docker & start the Flink SQL client:  
 + `docker compose run sql-client`  
 
 Copy and execute all commands from the `ddl.sql` file to create the required tables and views needed for visualization.
