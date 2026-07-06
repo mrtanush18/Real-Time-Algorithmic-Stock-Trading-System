@@ -24,7 +24,7 @@ Start the Kafka producers in separate terminals:
 Then go back to the same terminal, where you started Docker & start the Flink SQL client:  
 + `docker compose run sql-client`  
 
-Copy and execute all commands from the `ddl.sql` file to create the required tables and views needed for visualization.
+Copy and execute all commands one by one from the `ddl.sql` file to create the required tables and views needed for visualization.
 
 Launch the Streamlit dashboard:  
 + `streamlit run app.py`
